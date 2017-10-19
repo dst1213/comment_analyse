@@ -1,1 +1,0 @@
-stopword list
